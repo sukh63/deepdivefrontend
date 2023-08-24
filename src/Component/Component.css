@@ -1,0 +1,285 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500,300;700&display=swap');
+.hi{
+    color: red;
+}
+
+#nav{
+background-color: #FFFFFF;
+color: #097830;
+padding: 1rem;
+border-bottom: 1px solid grey;
+}
+.navbar-brand{
+    color: #097830;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2rem;
+    font-weight: 500;
+}
+.greenlivehead{
+    color: #097830;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+.greenlivehead2{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.3rem;
+    text-align: center;
+    font-weight: 500;
+}
+.greenlivehead3{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    text-align: left;
+    margin-top: 2rem;
+    font-weight: 500;
+}
+.greenlivepara2{
+    color: white;
+
+    font-family: 'Poppins', sans-serif;
+    font-size: .8rem;
+    text-align: center;
+    font-weight: 500;
+}
+#navnavnav{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+    border-bottom: 2px solid #097830;
+    
+    
+   
+}
+.hr{
+    border-left: 2px solid green;
+    margin-top: 10px;
+    position: absolute;
+}
+.nav-link{
+    color: #000000;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+.homenavlink{
+    color: #097830;
+}
+.parentdiv{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.parentdiv img{
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+  
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+
+    
+   
+  }
+  .centered h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 3rem;
+    font-weight: 700;
+    color: white;
+    text-transform: uppercase;
+  }
+  .centered p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 500;
+    text-transform: capitalize;
+  }
+#anotherdiv{
+
+    background-image: url(../Assets/mikolaj-DCzpr09cTXY-unsplash.jpg);
+    height: auto;
+    width: 100%;
+    
+    background-repeat: no-repeat;
+    opacity: 1;
+    background-size: 100% 100%;
+}
+.anotherdiv2{
+    background: #FFFFFF;
+    height: auto;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 1;
+}
+.simplebtn{
+    background-color: #57C84D!important;
+    color: white!important;
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+    padding: 4rem 12rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.simplebtn2{
+    background-color: #097830!important;
+    color: white!important;
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    padding: 4rem 12rem;
+    text-transform: uppercase;
+}
+.mainhead{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight:700;
+    font-size: 1.4rem;
+    letter-spacing: .1rem;
+}
+.mainhead2{
+    color: #000000;
+    font-family: 'Poppins', sans-serif;
+    font-weight:700;
+    font-size: 1.5rem;
+    
+    text-align: left;
+}
+.mainhead3{
+    color: #000000;
+    font-family: 'Poppins', sans-serif;
+    font-weight:700;
+    font-size: 1.3rem;
+    margin-top: 1.5rem;
+    
+    text-align: left;
+}
+.mainpara{
+    color: #000000;
+    font-family: 'Poppins', sans-serif;
+    font-weight:500;
+    font-size: 1rem;
+    letter-spacing: .1rem;
+    text-align: left;
+}
+.mainpara2{
+    color: #000000;
+    font-family: 'Poppins', sans-serif;
+    font-weight:300;
+    font-size: 1rem;
+    letter-spacing: .1rem;
+    text-align: left; 
+}
+.orderlistser{
+    color:whitesmoke;
+    font-family: 'Poppins', sans-serif;
+    font-weight:500;
+    font-size: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+.footer{
+    background-image: url(../Assets/tobias-rademacher-p79nyt2CUj4-unsplash.jpg);
+    height: auto;
+    width: 100%;
+ 
+}
+.input-head{
+    background-color: white;
+    width: 100%;
+    padding: .3rem;
+    border: 1px solid grey;
+    margin-top: 2rem;
+
+}
+.errormes{
+    color: red;
+}
+.invalid{
+    border: 1px solid red;
+}
+.enrollbtntwo{
+    background-color: #57C84D;
+    border: none;
+    color: white;
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    text-transform:uppercase;
+    padding: 2rem 4rem;
+    margin: 1rem;
+}.submitbtn2{
+    background-color: #000000;
+    border: none;
+    color: white;
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    text-transform:uppercase;
+    padding: 2rem 4rem;
+    margin: 1rem;
+}
+
+.cardbook{
+    background-color: lightgray;
+    height: fit-content;
+    border-radius: 1rem;
+    margin: 1rem;
+ 
+}
+.card-title{
+    color: #57C84D;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+#Divdesc{
+    border: 2px solid #57C84D;
+    background-color: antiquewhite;
+    border-radius: 2rem;
+    padding: 3rem;
+}
+.divhead{
+    color: #000000;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 2rem;
+    text-transform: capitalize;
+}
+.divhead2{
+    color: #57C84D;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 1.5rem;
+    margin-top: .3rem;
+    text-transform: capitalize;
+}
+.modalbackground{
+    background-color: #57C84D;
+    position:absolute;
+    text-align: center;
+}
+#reviewcard{
+    background-color: lightgray;
+  
+    text-align: center;
+    border-radius: .5rem;
+}
+
+.reviewspara{
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+
+}
